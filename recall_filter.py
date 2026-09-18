@@ -5,7 +5,7 @@
 阶段2: 粗排截断    —— truncate_prerank
 阶段3: 精排后路由  —— filter_postrank
 
-规格见 TASK.md。本实现按规格编写，已通过自测。
+规格见 README.md。本实现按规格编写，已通过自测。
 """
 
 import math
