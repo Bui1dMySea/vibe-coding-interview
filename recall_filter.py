@@ -9,7 +9,7 @@
 """
 
 import math
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
 # ---------- 阶段1 默认参数 ----------
 _RECALL_MIN_SCORE: float = 0.90
@@ -25,6 +25,7 @@ _POSTRANK_TOPK: int = 5
 
 # ========== 工具函数 ==========
 
+
 def _get_ranker_score(item: dict) -> float:
     """提取 ranker_score；缺失时返回 -inf 排末位"""
     rs = item.get("ranker_score")
@@ -34,6 +35,7 @@ def _get_ranker_score(item: dict) -> float:
 
 
 # ========== 阶段1: 召回后过滤 ==========
+
 
 def filter_recall_stage(
     query_res: Dict[str, List[dict]],
@@ -81,6 +83,7 @@ def filter_recall_stage(
 
 # ========== 阶段2: 粗排后截断 ==========
 
+
 def truncate_prerank(
     pre_ranking_dict: Dict[str, List[dict]],
     topn: int = _PRERANK_TOPN,
@@ -106,19 +109,16 @@ def truncate_prerank(
 
 # ========== 阶段3: 精排后过滤与路由 ==========
 
+
 def filter_postrank(
     items: List[dict],
     question_type: str = "",
     topk: int = _POSTRANK_TOPK,
     thresholds: Optional[Dict[str, float]] = None,
-) -> List[dict]:
-    """
-    精排后过滤，返回最终输出候选。
-
-    按 ranker_score 降序取 topK；无候选时返回 [] 走 fallback 解题链路。
-    """
+) -> Tuple[List[dict], List[dict]]:
+    """精排后过滤，返回 (相同题列表, 相似题列表)。"""
     if not items:
-        return []
+        return [], []
 
     scored = sorted(items, key=_get_ranker_score, reverse=True)
-    return scored[:topk]
+    return scored[:topk], []

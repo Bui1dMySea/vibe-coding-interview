@@ -24,17 +24,19 @@ for q in data["queries"]:
     hist = {k: v for k, v in stage1.items() if k in HIST}
     stage2 = truncate_prerank(primary, topn=5)
     items = _flat(stage2)
-    stage3 = filter_postrank(items, question_type=q.get("question_type", ""), topk=5)
-    if not stage3:
+    same, similar = filter_postrank(
+        items, question_type=q.get("question_type", ""), topk=5
+    )
+    if not same:
         stage2 = truncate_prerank(hist, topn=5)
         items = _flat(stage2)
-        stage3 = filter_postrank(
+        same, similar = filter_postrank(
             items, question_type=q.get("question_type", ""), topk=5
         )
-    output[qid] = stage3
+    output[qid] = {"same": same, "similar": similar}
     print(
         f"{qid}: recalled={sum(len(v) for v in stage1.values() if isinstance(v, list))} "
-        f"into_rank={len(items)} final={len(stage3)}"
+        f"into_rank={len(items)} same={len(same)} similar={len(similar)}"
     )
 
 with open(os.path.join(HERE, "output.json"), "w", encoding="utf-8") as f:
