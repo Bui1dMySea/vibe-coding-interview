@@ -13,9 +13,9 @@
             "score_vl": null,
             "score_es": 128.1521,
             "rrf_score": 0.03149802,
-            "pre_ranking_score": 9.586,
+            "pre_ranking_score": 9.598,
             "is_same_vl": "相似",
-            "confidence": 0.208,
+            "confidence": 0.181,
             "question_type": "选择题"
           },
           {
@@ -27,7 +27,7 @@
             "rrf_score": 0.03105441,
             "pre_ranking_score": 9.315,
             "is_same_vl": "相似",
-            "confidence": 0.329,
+            "confidence": 0.208,
             "question_type": "选择题"
           },
           {
@@ -37,9 +37,9 @@
             "score_vl": null,
             "score_es": 128.0793,
             "rrf_score": 0.03077652,
-            "pre_ranking_score": 9.016,
+            "pre_ranking_score": 9.056,
             "is_same_vl": "相似",
-            "confidence": 0.005,
+            "confidence": 0.205,
             "question_type": "选择题"
           },
           {
@@ -49,9 +49,9 @@
             "score_vl": null,
             "score_es": 126.9985,
             "rrf_score": 0.02972678,
-            "pre_ranking_score": 8.74,
+            "pre_ranking_score": 8.773,
             "is_same_vl": "相似",
-            "confidence": 0.071,
+            "confidence": 0.129,
             "question_type": "选择题"
           },
           {
@@ -61,9 +61,9 @@
             "score_vl": 0.569068,
             "score_es": 127.799,
             "rrf_score": 0.02923602,
-            "pre_ranking_score": 8.504,
+            "pre_ranking_score": 8.46,
             "is_same_vl": "相似",
-            "confidence": 0.395,
+            "confidence": 0.005,
             "question_type": "填空题"
           },
           {
@@ -73,9 +73,9 @@
             "score_vl": null,
             "score_es": 126.0402,
             "rrf_score": 0.02780974,
-            "pre_ranking_score": 8.246,
+            "pre_ranking_score": 8.164,
             "is_same_vl": "相似",
-            "confidence": 0.447,
+            "confidence": 0.168,
             "question_type": "选择题"
           },
           {
@@ -85,9 +85,9 @@
             "score_vl": 0.529671,
             "score_es": 127.9074,
             "rrf_score": 0.02577997,
-            "pre_ranking_score": 7.951,
+            "pre_ranking_score": 7.901,
             "is_same_vl": "相似",
-            "confidence": 0.014,
+            "confidence": 0.372,
             "question_type": "填空题"
           },
           {
@@ -97,9 +97,9 @@
             "score_vl": 0.623925,
             "score_es": null,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 7.636,
+            "pre_ranking_score": 7.686,
             "is_same_vl": "相似",
-            "confidence": 0.148,
+            "confidence": 0.395,
             "question_type": "填空题"
           },
           {
@@ -109,9 +109,9 @@
             "score_vl": null,
             "score_es": 138.1808,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 7.332,
+            "pre_ranking_score": 7.399,
             "is_same_vl": "相同",
-            "confidence": 0.721,
+            "confidence": 0.699,
             "question_type": "选择题"
           },
           {
@@ -121,9 +121,9 @@
             "score_vl": 0.575928,
             "score_es": null,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 7.056,
+            "pre_ranking_score": 7.097,
             "is_same_vl": "相似",
-            "confidence": 0.174,
+            "confidence": 0.404,
             "question_type": "填空题"
           },
           {
@@ -133,9 +133,9 @@
             "score_vl": null,
             "score_es": 128.4257,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 6.792,
+            "pre_ranking_score": 6.796,
             "is_same_vl": "相似",
-            "confidence": 0.474,
+            "confidence": 0.014,
             "question_type": "填空题"
           },
           {
@@ -145,9 +145,9 @@
             "score_vl": 0.575501,
             "score_es": null,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 6.499,
-            "is_same_vl": "相同",
-            "confidence": 0.597,
+            "pre_ranking_score": 6.5,
+            "is_same_vl": "相似",
+            "confidence": 0.313,
             "question_type": "选择题"
           },
           {
@@ -157,9 +157,9 @@
             "score_vl": null,
             "score_es": 128.4068,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 6.273,
+            "pre_ranking_score": 6.221,
             "is_same_vl": "相似",
-            "confidence": 0.262,
+            "confidence": 0.112,
             "question_type": "选择题"
           },
           {
@@ -169,9 +169,9 @@
             "score_vl": 0.573661,
             "score_es": null,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 5.933,
-            "is_same_vl": "相同",
-            "confidence": 0.53,
+            "pre_ranking_score": 5.989,
+            "is_same_vl": "相似",
+            "confidence": 0.129,
             "question_type": "填空题"
           },
           {
@@ -181,9 +181,9 @@
             "score_vl": 0.571164,
             "score_es": null,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.676,
-            "is_same_vl": "相同",
-            "confidence": 0.57,
+            "pre_ranking_score": 5.672,
+            "is_same_vl": "相似",
+            "confidence": 0.174,
             "question_type": "填空题"
           },
           {
@@ -193,9 +193,9 @@
             "score_vl": null,
             "score_es": 120.6954,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.423,
-            "is_same_vl": "相同",
-            "confidence": 0.584,
+            "pre_ranking_score": 5.445,
+            "is_same_vl": "相似",
+            "confidence": 0.322,
             "question_type": "选择题"
           },
           {
@@ -205,9 +205,9 @@
             "score_vl": null,
             "score_es": 128.0799,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.119,
+            "pre_ranking_score": 5.074,
             "is_same_vl": "相似",
-            "confidence": 0.238,
+            "confidence": 0.147,
             "question_type": "填空题"
           },
           {
@@ -217,9 +217,9 @@
             "score_vl": 0.568216,
             "score_es": null,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 4.87,
+            "pre_ranking_score": 4.873,
             "is_same_vl": "相似",
-            "confidence": 0.307,
+            "confidence": 0.487,
             "question_type": "填空题"
           },
           {
@@ -229,9 +229,9 @@
             "score_vl": null,
             "score_es": 120.3728,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 4.56,
-            "is_same_vl": "相同",
-            "confidence": 0.514,
+            "pre_ranking_score": 4.562,
+            "is_same_vl": "相似",
+            "confidence": 0.395,
             "question_type": "选择题"
           },
           {
@@ -241,9 +241,9 @@
             "score_vl": 0.555577,
             "score_es": null,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 4.253,
+            "pre_ranking_score": 4.245,
             "is_same_vl": "相似",
-            "confidence": 0.185,
+            "confidence": 0.117,
             "question_type": "填空题"
           }
         ],
@@ -255,9 +255,9 @@
             "score_vl": null,
             "score_es": 120.3685,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 8.39,
+            "pre_ranking_score": 8.38,
             "is_same_vl": "相似",
-            "confidence": 0.33,
+            "confidence": 0.23,
             "question_type": "选择题"
           },
           {
@@ -267,9 +267,9 @@
             "score_vl": null,
             "score_es": 128.0506,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 8.195,
+            "pre_ranking_score": 8.107,
             "is_same_vl": "相似",
-            "confidence": 0.256,
+            "confidence": 0.35,
             "question_type": "选择题"
           },
           {
@@ -279,9 +279,9 @@
             "score_vl": 0.554395,
             "score_es": null,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 7.932,
+            "pre_ranking_score": 7.923,
             "is_same_vl": "相似",
-            "confidence": 0.328,
+            "confidence": 0.007,
             "question_type": "解答题"
           },
           {
@@ -291,9 +291,9 @@
             "score_vl": null,
             "score_es": 120.2125,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 7.609,
+            "pre_ranking_score": 7.684,
             "is_same_vl": "相似",
-            "confidence": 0.05,
+            "confidence": 0.246,
             "question_type": "选择题"
           }
         ],
@@ -305,9 +305,9 @@
             "score_vl": null,
             "score_es": 127.9183,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 8.413,
-            "is_same_vl": "相同",
-            "confidence": 0.501,
+            "pre_ranking_score": 8.442,
+            "is_same_vl": "相似",
+            "confidence": 0.238,
             "question_type": "填空题"
           },
           {
@@ -317,9 +317,9 @@
             "score_vl": 0.550681,
             "score_es": null,
             "rrf_score": 0.01428571,
-            "pre_ranking_score": 8.169,
+            "pre_ranking_score": 8.18,
             "is_same_vl": "相似",
-            "confidence": 0.057,
+            "confidence": 0.227,
             "question_type": "解答题"
           },
           {
@@ -329,9 +329,9 @@
             "score_vl": null,
             "score_es": 120.1986,
             "rrf_score": 0.01428571,
-            "pre_ranking_score": 7.865,
+            "pre_ranking_score": 7.911,
             "is_same_vl": "相似",
-            "confidence": 0.383,
+            "confidence": 0.25,
             "question_type": "选择题"
           },
           {
@@ -341,9 +341,9 @@
             "score_vl": 0.544064,
             "score_es": null,
             "rrf_score": 0.01408451,
-            "pre_ranking_score": 7.618,
+            "pre_ranking_score": 7.602,
             "is_same_vl": "相似",
-            "confidence": 0.128,
+            "confidence": 0.072,
             "question_type": "填空题"
           }
         ]
@@ -362,9 +362,9 @@
             "score_vl": 0.365646,
             "score_es": 72.4616,
             "rrf_score": 0.0259042,
-            "pre_ranking_score": 9.551,
+            "pre_ranking_score": 9.4,
             "is_same_vl": "相似",
-            "confidence": 0.459,
+            "confidence": 0.116,
             "question_type": "选择题"
           },
           {
@@ -374,9 +374,9 @@
             "score_vl": 0.411174,
             "score_es": null,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 9.28,
-            "is_same_vl": "相同",
-            "confidence": 0.539,
+            "pre_ranking_score": 9.18,
+            "is_same_vl": "相似",
+            "confidence": 0.203,
             "question_type": "选择题"
           },
           {
@@ -386,9 +386,9 @@
             "score_vl": null,
             "score_es": 100.1597,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 8.994,
+            "pre_ranking_score": 8.96,
             "is_same_vl": "相似",
-            "confidence": 0.365,
+            "confidence": 0.185,
             "question_type": "选择题"
           },
           {
@@ -398,9 +398,9 @@
             "score_vl": null,
             "score_es": 78.6346,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 8.756,
+            "pre_ranking_score": 9.85,
             "is_same_vl": "相同",
-            "confidence": 0.615,
+            "confidence": 0.81,
             "question_type": "判断题"
           },
           {
@@ -410,9 +410,9 @@
             "score_vl": 0.400673,
             "score_es": null,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 8.433,
-            "is_same_vl": "相同",
-            "confidence": 0.567,
+            "pre_ranking_score": 6.1,
+            "is_same_vl": "相似",
+            "confidence": 0.33,
             "question_type": "选择题"
           },
           {
@@ -422,9 +422,9 @@
             "score_vl": null,
             "score_es": 98.6771,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 8.242,
+            "pre_ranking_score": 5.98,
             "is_same_vl": "相似",
-            "confidence": 0.052,
+            "confidence": 0.2,
             "question_type": "选择题"
           },
           {
@@ -434,9 +434,9 @@
             "score_vl": null,
             "score_es": 78.2,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 7.892,
+            "pre_ranking_score": 5.86,
             "is_same_vl": "相似",
-            "confidence": 0.054,
+            "confidence": 0.16,
             "question_type": "选择题"
           },
           {
@@ -446,9 +446,9 @@
             "score_vl": 0.400574,
             "score_es": null,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 7.602,
+            "pre_ranking_score": 5.74,
             "is_same_vl": "相似",
-            "confidence": 0.42,
+            "confidence": 0.256,
             "question_type": "填空题"
           },
           {
@@ -458,9 +458,9 @@
             "score_vl": null,
             "score_es": 93.3555,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 7.334,
+            "pre_ranking_score": 5.62,
             "is_same_vl": "相似",
-            "confidence": 0.438,
+            "confidence": 0.476,
             "question_type": "选择题"
           },
           {
@@ -470,9 +470,9 @@
             "score_vl": null,
             "score_es": 76.264,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 7.073,
+            "pre_ranking_score": 5.5,
             "is_same_vl": "相似",
-            "confidence": 0.092,
+            "confidence": 0.391,
             "question_type": "选择题"
           },
           {
@@ -482,9 +482,9 @@
             "score_vl": 0.396605,
             "score_es": null,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 6.817,
+            "pre_ranking_score": 5.38,
             "is_same_vl": "相似",
-            "confidence": 0.43,
+            "confidence": 0.328,
             "question_type": "选择题"
           },
           {
@@ -494,9 +494,9 @@
             "score_vl": null,
             "score_es": 92.505,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 6.491,
+            "pre_ranking_score": 5.26,
             "is_same_vl": "相似",
-            "confidence": 0.011,
+            "confidence": 0.408,
             "question_type": "选择题"
           },
           {
@@ -506,9 +506,9 @@
             "score_vl": null,
             "score_es": 75.7851,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 6.22,
+            "pre_ranking_score": 5.14,
             "is_same_vl": "相似",
-            "confidence": 0.062,
+            "confidence": 0.114,
             "question_type": "选择题"
           },
           {
@@ -518,9 +518,9 @@
             "score_vl": 0.393705,
             "score_es": null,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.918,
+            "pre_ranking_score": 5.02,
             "is_same_vl": "相似",
-            "confidence": 0.152,
+            "confidence": 0.05,
             "question_type": "选择题"
           },
           {
@@ -530,9 +530,9 @@
             "score_vl": null,
             "score_es": 92.2234,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.68,
+            "pre_ranking_score": 4.9,
             "is_same_vl": "相似",
-            "confidence": 0.236,
+            "confidence": 0.047,
             "question_type": "选择题"
           },
           {
@@ -542,9 +542,9 @@
             "score_vl": null,
             "score_es": 75.2781,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.409,
+            "pre_ranking_score": 9.63,
             "is_same_vl": "相同",
-            "confidence": 0.796,
+            "confidence": 0.647,
             "question_type": "判断题"
           },
           {
@@ -554,9 +554,9 @@
             "score_vl": 0.392671,
             "score_es": null,
             "rrf_score": 0.01515152,
-            "pre_ranking_score": 5.119,
-            "is_same_vl": "相同",
-            "confidence": 0.563,
+            "pre_ranking_score": 4.78,
+            "is_same_vl": "相似",
+            "confidence": 0.005,
             "question_type": "选择题"
           },
           {
@@ -566,9 +566,9 @@
             "score_vl": null,
             "score_es": 90.5994,
             "rrf_score": 0.01515152,
-            "pre_ranking_score": 4.857,
+            "pre_ranking_score": 4.66,
             "is_same_vl": "相似",
-            "confidence": 0.157,
+            "confidence": 0.313,
             "question_type": "选择题"
           },
           {
@@ -578,9 +578,9 @@
             "score_vl": 0.388743,
             "score_es": null,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 4.556,
+            "pre_ranking_score": 4.54,
             "is_same_vl": "相似",
-            "confidence": 0.364,
+            "confidence": 0.459,
             "question_type": "填空题"
           },
           {
@@ -590,9 +590,9 @@
             "score_vl": null,
             "score_es": 89.125,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 4.235,
+            "pre_ranking_score": 4.42,
             "is_same_vl": "相似",
-            "confidence": 0.086,
+            "confidence": 0.057,
             "question_type": "选择题"
           }
         ],
@@ -604,9 +604,9 @@
             "score_vl": null,
             "score_es": 72.0431,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 8.389,
+            "pre_ranking_score": 8.419,
             "is_same_vl": "相似",
-            "confidence": 0.201,
+            "confidence": 0.47,
             "question_type": "选择题"
           },
           {
@@ -616,9 +616,9 @@
             "score_vl": 0.388004,
             "score_es": null,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 8.172,
+            "pre_ranking_score": 8.177,
             "is_same_vl": "相似",
-            "confidence": 0.227,
+            "confidence": 0.077,
             "question_type": "填空题"
           },
           {
@@ -628,9 +628,9 @@
             "score_vl": null,
             "score_es": 88.9793,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 7.89,
+            "pre_ranking_score": 7.914,
             "is_same_vl": "相似",
-            "confidence": 0.111,
+            "confidence": 0.128,
             "question_type": "选择题"
           },
           {
@@ -640,9 +640,9 @@
             "score_vl": null,
             "score_es": 72.0144,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 7.69,
+            "pre_ranking_score": 7.618,
             "is_same_vl": "相似",
-            "confidence": 0.028,
+            "confidence": 0.006,
             "question_type": "选择题"
           }
         ],
@@ -654,9 +654,9 @@
             "score_vl": 0.386731,
             "score_es": null,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 8.365,
-            "is_same_vl": "相同",
-            "confidence": 0.563,
+            "pre_ranking_score": 8.403,
+            "is_same_vl": "相似",
+            "confidence": 0.459,
             "question_type": "判断题"
           },
           {
@@ -666,9 +666,9 @@
             "score_vl": null,
             "score_es": 88.7018,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 8.122,
+            "pre_ranking_score": 8.11,
             "is_same_vl": "相似",
-            "confidence": 0.346,
+            "confidence": 0.074,
             "question_type": "选择题"
           },
           {
@@ -678,9 +678,9 @@
             "score_vl": null,
             "score_es": 71.9987,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 7.935,
+            "pre_ranking_score": 7.889,
             "is_same_vl": "相似",
-            "confidence": 0.423,
+            "confidence": 0.019,
             "question_type": "选择题"
           },
           {
@@ -690,9 +690,9 @@
             "score_vl": 0.386631,
             "score_es": null,
             "rrf_score": 0.01428571,
-            "pre_ranking_score": 7.674,
+            "pre_ranking_score": 7.646,
             "is_same_vl": "相似",
-            "confidence": 0.319,
+            "confidence": 0.365,
             "question_type": "填空题"
           }
         ]
@@ -711,9 +711,9 @@
             "score_vl": 0.464575,
             "score_es": 112.8358,
             "rrf_score": 0.0260771,
-            "pre_ranking_score": 9.642,
-            "is_same_vl": "相似",
-            "confidence": 0.257,
+            "pre_ranking_score": 9.8,
+            "is_same_vl": "相同",
+            "confidence": 0.78,
             "question_type": "填空题"
           },
           {
@@ -723,9 +723,9 @@
             "score_vl": 0.472262,
             "score_es": 96.3878,
             "rrf_score": 0.02519288,
-            "pre_ranking_score": 9.332,
-            "is_same_vl": "相似",
-            "confidence": 0.255,
+            "pre_ranking_score": 9.4,
+            "is_same_vl": "相同",
+            "confidence": 0.504,
             "question_type": "解答题"
           },
           {
@@ -735,9 +735,9 @@
             "score_vl": 0.468201,
             "score_es": 97.2657,
             "rrf_score": 0.02464158,
-            "pre_ranking_score": 9.012,
-            "is_same_vl": "相似",
-            "confidence": 0.175,
+            "pre_ranking_score": 9.22,
+            "is_same_vl": "相同",
+            "confidence": 0.503,
             "question_type": "解答题"
           },
           {
@@ -747,9 +747,9 @@
             "score_vl": 0.477617,
             "score_es": 94.6448,
             "rrf_score": 0.02456299,
-            "pre_ranking_score": 8.781,
+            "pre_ranking_score": 9.05,
             "is_same_vl": "相似",
-            "confidence": 0.453,
+            "confidence": 0.099,
             "question_type": "解答题"
           },
           {
@@ -759,9 +759,9 @@
             "score_vl": 0.464069,
             "score_es": 97.3046,
             "rrf_score": 0.02438672,
-            "pre_ranking_score": 8.441,
-            "is_same_vl": "相同",
-            "confidence": 0.593,
+            "pre_ranking_score": 4.8,
+            "is_same_vl": "相似",
+            "confidence": 0.334,
             "question_type": "解答题"
           },
           {
@@ -771,9 +771,9 @@
             "score_vl": 0.468225,
             "score_es": 95.5364,
             "rrf_score": 0.0242029,
-            "pre_ranking_score": 8.223,
+            "pre_ranking_score": 4.7,
             "is_same_vl": "相似",
-            "confidence": 0.407,
+            "confidence": 0.462,
             "question_type": "解答题"
           },
           {
@@ -783,9 +783,9 @@
             "score_vl": 0.468731,
             "score_es": 94.4787,
             "rrf_score": 0.02348901,
-            "pre_ranking_score": 7.965,
-            "is_same_vl": "相同",
-            "confidence": 0.519,
+            "pre_ranking_score": 4.6,
+            "is_same_vl": "相似",
+            "confidence": 0.251,
             "question_type": "解答题"
           },
           {
@@ -795,9 +795,9 @@
             "score_vl": 0.462935,
             "score_es": 95.3524,
             "rrf_score": 0.02298701,
-            "pre_ranking_score": 7.651,
+            "pre_ranking_score": 4.5,
             "is_same_vl": "相似",
-            "confidence": 0.059,
+            "confidence": 0.052,
             "question_type": "解答题"
           },
           {
@@ -807,9 +807,9 @@
             "score_vl": 0.551982,
             "score_es": null,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 7.405,
+            "pre_ranking_score": 4.4,
             "is_same_vl": "相似",
-            "confidence": 0.102,
+            "confidence": 0.108,
             "question_type": "解答题"
           },
           {
@@ -819,9 +819,9 @@
             "score_vl": null,
             "score_es": 112.8828,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 7.074,
-            "is_same_vl": "相似",
-            "confidence": 0.091,
+            "pre_ranking_score": 9.62,
+            "is_same_vl": "相同",
+            "confidence": 0.762,
             "question_type": "填空题"
           },
           {
@@ -831,9 +831,9 @@
             "score_vl": 0.522886,
             "score_es": null,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 6.759,
+            "pre_ranking_score": 5.4,
             "is_same_vl": "相同",
-            "confidence": 0.631,
+            "confidence": 0.642,
             "question_type": "填空题"
           },
           {
@@ -843,9 +843,9 @@
             "score_vl": null,
             "score_es": 112.8431,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 6.473,
-            "is_same_vl": "相似",
-            "confidence": 0.075,
+            "pre_ranking_score": 5.28,
+            "is_same_vl": "相同",
+            "confidence": 0.645,
             "question_type": "填空题"
           },
           {
@@ -855,9 +855,9 @@
             "score_vl": 0.518167,
             "score_es": null,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 6.258,
-            "is_same_vl": "相似",
-            "confidence": 0.39,
+            "pre_ranking_score": 5.16,
+            "is_same_vl": "相同",
+            "confidence": 0.769,
             "question_type": "填空题"
           },
           {
@@ -867,9 +867,9 @@
             "score_vl": 0.516528,
             "score_es": null,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 5.987,
-            "is_same_vl": "相似",
-            "confidence": 0.209,
+            "pre_ranking_score": 5.04,
+            "is_same_vl": "相同",
+            "confidence": 0.928,
             "question_type": "填空题"
           },
           {
@@ -879,9 +879,9 @@
             "score_vl": null,
             "score_es": 112.8358,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 5.705,
-            "is_same_vl": "相似",
-            "confidence": 0.058,
+            "pre_ranking_score": 4.92,
+            "is_same_vl": "相同",
+            "confidence": 0.693,
             "question_type": "填空题"
           },
           {
@@ -891,9 +891,9 @@
             "score_vl": 0.50902,
             "score_es": null,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.436,
+            "pre_ranking_score": 4.3,
             "is_same_vl": "相似",
-            "confidence": 0.061,
+            "confidence": 0.441,
             "question_type": "解答题"
           },
           {
@@ -903,9 +903,9 @@
             "score_vl": null,
             "score_es": 112.83,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 5.108,
-            "is_same_vl": "相似",
-            "confidence": 0.097,
+            "pre_ranking_score": 4.8,
+            "is_same_vl": "相同",
+            "confidence": 0.942,
             "question_type": "填空题"
           },
           {
@@ -915,9 +915,9 @@
             "score_vl": 0.508658,
             "score_es": null,
             "rrf_score": 0.01515152,
-            "pre_ranking_score": 4.864,
-            "is_same_vl": "相似",
-            "confidence": 0.187,
+            "pre_ranking_score": 4.68,
+            "is_same_vl": "相同",
+            "confidence": 0.769,
             "question_type": "填空题"
           },
           {
@@ -927,9 +927,9 @@
             "score_vl": null,
             "score_es": 112.812,
             "rrf_score": 0.01515152,
-            "pre_ranking_score": 4.512,
-            "is_same_vl": "相似",
-            "confidence": 0.096,
+            "pre_ranking_score": 4.56,
+            "is_same_vl": "相同",
+            "confidence": 0.688,
             "question_type": "填空题"
           },
           {
@@ -939,9 +939,9 @@
             "score_vl": 0.505999,
             "score_es": null,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 4.238,
+            "pre_ranking_score": 4.2,
             "is_same_vl": "相似",
-            "confidence": 0.206,
+            "confidence": 0.092,
             "question_type": "解答题"
           }
         ],
@@ -953,9 +953,9 @@
             "score_vl": null,
             "score_es": 111.9964,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 8.391,
+            "pre_ranking_score": 8.417,
             "is_same_vl": "相似",
-            "confidence": 0.297,
+            "confidence": 0.413,
             "question_type": "填空题"
           },
           {
@@ -965,9 +965,9 @@
             "score_vl": 0.505999,
             "score_es": null,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 8.104,
+            "pre_ranking_score": 8.186,
             "is_same_vl": "相似",
-            "confidence": 0.276,
+            "confidence": 0.104,
             "question_type": "解答题"
           },
           {
@@ -977,9 +977,9 @@
             "score_vl": null,
             "score_es": 111.9432,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 7.915,
+            "pre_ranking_score": 7.893,
             "is_same_vl": "相似",
-            "confidence": 0.174,
+            "confidence": 0.011,
             "question_type": "填空题"
           },
           {
@@ -989,9 +989,9 @@
             "score_vl": 0.504264,
             "score_es": null,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 7.617,
+            "pre_ranking_score": 7.63,
             "is_same_vl": "相似",
-            "confidence": 0.481,
+            "confidence": 0.147,
             "question_type": "解答题"
           }
         ],
@@ -1003,9 +1003,9 @@
             "score_vl": null,
             "score_es": 107.2994,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 8.39,
-            "is_same_vl": "相同",
-            "confidence": 0.504,
+            "pre_ranking_score": 8.362,
+            "is_same_vl": "相似",
+            "confidence": 0.038,
             "question_type": "填空题"
           },
           {
@@ -1015,9 +1015,9 @@
             "score_vl": 0.500535,
             "score_es": null,
             "rrf_score": 0.01428571,
-            "pre_ranking_score": 8.193,
+            "pre_ranking_score": 8.199,
             "is_same_vl": "相似",
-            "confidence": 0.224,
+            "confidence": 0.152,
             "question_type": "解答题"
           },
           {
@@ -1027,9 +1027,9 @@
             "score_vl": 0.49894,
             "score_es": null,
             "rrf_score": 0.01408451,
-            "pre_ranking_score": 7.867,
-            "is_same_vl": "相同",
-            "confidence": 0.597,
+            "pre_ranking_score": 7.9,
+            "is_same_vl": "相似",
+            "confidence": 0.267,
             "question_type": "解答题"
           },
           {
@@ -1039,9 +1039,9 @@
             "score_vl": null,
             "score_es": 97.2852,
             "rrf_score": 0.01408451,
-            "pre_ranking_score": 7.658,
+            "pre_ranking_score": 7.647,
             "is_same_vl": "相似",
-            "confidence": 0.098,
+            "confidence": 0.295,
             "question_type": "解答题"
           }
         ]
@@ -1060,9 +1060,9 @@
             "score_vl": 0.710688,
             "score_es": 347.5001,
             "rrf_score": 0.0401929,
-            "pre_ranking_score": 9.611,
+            "pre_ranking_score": 9.599,
             "is_same_vl": "相似",
-            "confidence": 0.206,
+            "confidence": 0.251,
             "question_type": "解答题"
           },
           {
@@ -1072,9 +1072,9 @@
             "score_vl": 0.684178,
             "score_es": 349.359,
             "rrf_score": 0.03702341,
-            "pre_ranking_score": 9.354,
-            "is_same_vl": "相同",
-            "confidence": 0.59,
+            "pre_ranking_score": 9.333,
+            "is_same_vl": "相似",
+            "confidence": 0.04,
             "question_type": "选择题"
           },
           {
@@ -1084,9 +1084,9 @@
             "score_vl": 0.679979,
             "score_es": 348.6067,
             "rrf_score": 0.03614491,
-            "pre_ranking_score": 9.042,
+            "pre_ranking_score": 9.062,
             "is_same_vl": "相似",
-            "confidence": 0.485,
+            "confidence": 0.334,
             "question_type": "解答题"
           },
           {
@@ -1096,45 +1096,45 @@
             "score_vl": null,
             "score_es": 365.1223,
             "rrf_score": 0.03278689,
-            "pre_ranking_score": 8.741,
+            "pre_ranking_score": 8.756,
             "is_same_vl": "相似",
-            "confidence": 0.293,
+            "confidence": 0.157,
             "question_type": "解答题"
           },
           {
             "id": "q4_c05",
-            "content": "6. 古诗中的计量单位。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“一仞”是七尺，一尺约合23厘米。 (1) 诗句中的“万仞山”表示山很高，汉制“一万仞”实际是多少厘米？读出这个数。 (2) 把这个数改写成用“万”作单位的数。",
-            "channel": "both",
-            "score_vl": 0.884139,
-            "score_es": 326.545,
-            "rrf_score": 0.03154496,
-            "pre_ranking_score": 8.46,
-            "is_same_vl": "相同",
-            "confidence": 0.657,
-            "question_type": "解答题"
+            "content": "6.古诗中的计量单位。 凉州词（其一） 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
+            "channel": "es",
+            "score_vl": null,
+            "score_es": 360.0367,
+            "rrf_score": 0.03083491,
+            "pre_ranking_score": 8.503,
+            "is_same_vl": "相似",
+            "confidence": 0.403,
+            "question_type": "填空题"
           },
           {
             "id": "q4_c06",
             "content": "6.古诗中的计量单位。 凉州词（其一） 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
             "channel": "es",
             "score_vl": null,
-            "score_es": 360.0367,
-            "rrf_score": 0.03083491,
-            "pre_ranking_score": 8.193,
+            "score_es": 356.7378,
+            "rrf_score": 0.02941813,
+            "pre_ranking_score": 8.183,
             "is_same_vl": "相似",
-            "confidence": 0.305,
+            "confidence": 0.026,
             "question_type": "填空题"
           },
           {
             "id": "q4_c07",
-            "content": "6.古诗中的计量单位。 凉州词（其一） 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
+            "content": "5.古诗中的计量单位。 凉州词(其一) 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
             "channel": "es",
             "score_vl": null,
-            "score_es": 356.7378,
-            "rrf_score": 0.02941813,
-            "pre_ranking_score": 7.911,
-            "is_same_vl": "相同",
-            "confidence": 0.569,
+            "score_es": 355.7246,
+            "rrf_score": 0.02857726,
+            "pre_ranking_score": 7.941,
+            "is_same_vl": "相似",
+            "confidence": 0.086,
             "question_type": "填空题"
           },
           {
@@ -1142,35 +1142,35 @@
             "content": "5.古诗中的计量单位。 凉州词(其一) 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
             "channel": "es",
             "score_vl": null,
-            "score_es": 355.7246,
-            "rrf_score": 0.02857726,
-            "pre_ranking_score": 7.682,
+            "score_es": 355.9316,
+            "rrf_score": 0.0282194,
+            "pre_ranking_score": 7.629,
             "is_same_vl": "相似",
-            "confidence": 0.149,
+            "confidence": 0.201,
             "question_type": "填空题"
           },
           {
             "id": "q4_c09",
-            "content": "5.古诗中的计量单位。 凉州词(其一) 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
-            "channel": "es",
-            "score_vl": null,
-            "score_es": 355.9316,
-            "rrf_score": 0.0282194,
-            "pre_ranking_score": 7.34,
-            "is_same_vl": "相似",
-            "confidence": 0.222,
-            "question_type": "填空题"
-          },
-          {
-            "id": "q4_c10",
             "content": "5.古诗中的计量单位。 凉州词（其一） 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
             "channel": "es",
             "score_vl": null,
             "score_es": 355.52,
             "rrf_score": 0.0281746,
-            "pre_ranking_score": 7.102,
-            "is_same_vl": "相同",
-            "confidence": 0.581,
+            "pre_ranking_score": 7.355,
+            "is_same_vl": "相似",
+            "confidence": 0.111,
+            "question_type": "填空题"
+          },
+          {
+            "id": "q4_c10",
+            "content": "5.古诗中的计量单位。 凉州词(其一) 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
+            "channel": "es",
+            "score_vl": null,
+            "score_es": 354.8701,
+            "rrf_score": 0.02758752,
+            "pre_ranking_score": 7.093,
+            "is_same_vl": "相似",
+            "confidence": 0.359,
             "question_type": "填空题"
           },
           {
@@ -1178,133 +1178,133 @@
             "content": "5.古诗中的计量单位。 凉州词(其一) 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
             "channel": "es",
             "score_vl": null,
-            "score_es": 354.8701,
-            "rrf_score": 0.02758752,
-            "pre_ranking_score": 6.839,
+            "score_es": 354.2824,
+            "rrf_score": 0.02703196,
+            "pre_ranking_score": 6.79,
             "is_same_vl": "相似",
-            "confidence": 0.153,
+            "confidence": 0.111,
             "question_type": "填空题"
           },
           {
             "id": "q4_c12",
-            "content": "5.古诗中的计量单位。 凉州词(其一) 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
-            "channel": "es",
-            "score_vl": null,
-            "score_es": 354.2824,
-            "rrf_score": 0.02703196,
-            "pre_ranking_score": 6.535,
-            "is_same_vl": "相似",
-            "confidence": 0.393,
-            "question_type": "填空题"
-          },
-          {
-            "id": "q4_c13",
             "content": "五、古诗中的计量单位。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“一仞”是七尺，汉制的一尺约合21~24厘米。 诗句中“万仞山”只表示山很高，汉制“一万仞”实际最高达多少厘米？读出这个数，并改写成用“万”作单位的数。",
             "channel": "es",
             "score_vl": null,
             "score_es": 350.4484,
             "rrf_score": 0.02617174,
-            "pre_ranking_score": 6.192,
-            "is_same_vl": "相同",
-            "confidence": 0.589,
+            "pre_ranking_score": 6.476,
+            "is_same_vl": "相似",
+            "confidence": 0.312,
             "question_type": "解答题"
           },
           {
-            "id": "q4_c14",
+            "id": "q4_c13",
             "content": "五、古诗中的计量单位。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“一仞”是七尺，汉制的一尺约合21~24厘米。 诗句中“万仞山”只表示山很高，汉制“一万仞”实际最高达多少厘米？读出这个数，并改写成用“万”作单位的数。",
             "channel": "both",
             "score_vl": 0.698695,
             "score_es": 315.7764,
             "rrf_score": 0.02532051,
-            "pre_ranking_score": 5.95,
+            "pre_ranking_score": 6.192,
             "is_same_vl": "相似",
-            "confidence": 0.225,
+            "confidence": 0.451,
             "question_type": "解答题"
           },
           {
-            "id": "q4_c15",
+            "id": "q4_c14",
             "content": "4古诗中的计量单位。 汉制“一仞”是七尺，一尺约合21~24厘米。汉制“仞”最高达( )厘米。 (1)“万仞山”表示山很高，汉制“一万仞”实际最高约为多少厘米？读出这个数。 (2)把这个数改写成用“万”作单位的数。",
             "channel": "vl",
             "score_vl": 0.732706,
             "score_es": null,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 5.714,
-            "is_same_vl": "相同",
-            "confidence": 0.596,
+            "pre_ranking_score": 5.925,
+            "is_same_vl": "相似",
+            "confidence": 0.313,
             "question_type": "复合题"
           },
           {
-            "id": "q4_c16",
+            "id": "q4_c15",
             "content": "6 古诗中的计量单位。 (1) 诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高约为多少厘米？读出这个数。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 (2) 把这个数改写成用“万”作单位的数。",
             "channel": "es",
             "score_vl": null,
             "score_es": 330.6016,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 5.397,
-            "is_same_vl": "相同",
-            "confidence": 0.52,
+            "pre_ranking_score": 5.699,
+            "is_same_vl": "相似",
+            "confidence": 0.478,
             "question_type": "解答题"
           },
           {
-            "id": "q4_c17",
+            "id": "q4_c16",
             "content": "5. 古诗中的计量单位。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“仞”是七尺，汉制的一尺约合21~24厘米。 (1) 诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高约为多少厘米？读出这个数。 想一想，汉制“仞”实际最高约为（ ）厘米。 (2) 把这个数改写成用“万”作单位的数。",
             "channel": "vl",
             "score_vl": 0.728986,
             "score_es": null,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 5.078,
+            "pre_ranking_score": 5.4,
             "is_same_vl": "相似",
-            "confidence": 0.479,
+            "confidence": 0.111,
             "question_type": "解答题"
           },
           {
-            "id": "q4_c18",
+            "id": "q4_c17",
             "content": "6 古诗中的计量单位。 (1) 诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高约为多少厘米？读出这个数。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 (2) 把这个数改写成用“万”作单位的数。",
             "channel": "es",
             "score_vl": null,
             "score_es": 330.6016,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 4.887,
+            "pre_ranking_score": 5.155,
             "is_same_vl": "相似",
-            "confidence": 0.204,
+            "confidence": 0.423,
             "question_type": "解答题"
           },
           {
-            "id": "q4_c19",
+            "id": "q4_c18",
             "content": "6.古诗中的计量单位。 凉州词（其一） 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
             "channel": "es",
             "score_vl": null,
             "score_es": 358.9922,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 4.587,
+            "pre_ranking_score": 4.854,
             "is_same_vl": "相似",
-            "confidence": 0.416,
+            "confidence": 0.331,
             "question_type": "填空题"
           },
           {
-            "id": "q4_c20",
+            "id": "q4_c19",
             "content": "5. 古诗中的计量单位。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“仞”是七尺，汉制的一尺约合21~24厘米。 (1) 诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高约为多少厘米？读出这个数。 想一想，汉制“仞”实际最高约为（ ）厘米。 (2) 把这个数改写成用“万”作单位的数。",
             "channel": "vl",
             "score_vl": 0.726717,
             "score_es": null,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 4.327,
+            "pre_ranking_score": 4.602,
             "is_same_vl": "相似",
-            "confidence": 0.382,
+            "confidence": 0.371,
+            "question_type": "解答题"
+          },
+          {
+            "id": "q4_c20",
+            "content": "6 古诗中的计量单位。 (1) 诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高约为多少厘米？读出这个数。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 (2) 把这个数改写成用“万”作单位的数。",
+            "channel": "es",
+            "score_vl": null,
+            "score_es": 330.406,
+            "rrf_score": 0.015625,
+            "pre_ranking_score": 4.292,
+            "is_same_vl": "相似",
+            "confidence": 0.257,
             "question_type": "解答题"
           }
         ],
         "8889": [
           {
             "id": "q4_c21",
-            "content": "6 古诗中的计量单位。 (1) 诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高约为多少厘米？读出这个数。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 (2) 把这个数改写成用“万”作单位的数。",
-            "channel": "es",
-            "score_vl": null,
-            "score_es": 330.406,
-            "rrf_score": 0.015625,
-            "pre_ranking_score": 8.392,
-            "is_same_vl": "相似",
-            "confidence": 0.085,
+            "content": "6. 古诗中的计量单位。 凉州词 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“一仞”是七尺，一尺约合23厘米。 (1) 诗句中的“万仞山”表示山很高，汉制“一万仞”实际是多少厘米？读出这个数。 (2) 把这个数改写成用“万”作单位的数。",
+            "channel": "both",
+            "score_vl": 0.884139,
+            "score_es": 326.545,
+            "rrf_score": 0.03154496,
+            "pre_ranking_score": 8.6,
+            "is_same_vl": "相同",
+            "confidence": 0.911,
             "question_type": "解答题"
           },
           {
@@ -1314,9 +1314,9 @@
             "score_vl": null,
             "score_es": 358.4266,
             "rrf_score": 0.015625,
-            "pre_ranking_score": 8.116,
+            "pre_ranking_score": 8.401,
             "is_same_vl": "相似",
-            "confidence": 0.376,
+            "confidence": 0.109,
             "question_type": "填空题"
           },
           {
@@ -1326,9 +1326,9 @@
             "score_vl": 0.726717,
             "score_es": null,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 7.854,
-            "is_same_vl": "相同",
-            "confidence": 0.573,
+            "pre_ranking_score": 8.158,
+            "is_same_vl": "相似",
+            "confidence": 0.175,
             "question_type": "填空题"
           },
           {
@@ -1338,13 +1338,11 @@
             "score_vl": null,
             "score_es": 330.1242,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 7.602,
-            "is_same_vl": "相同",
-            "confidence": 0.5,
+            "pre_ranking_score": 7.921,
+            "is_same_vl": "相似",
+            "confidence": 0.374,
             "question_type": "解答题"
-          }
-        ],
-        "8899": [
+          },
           {
             "id": "q4_c25",
             "content": "6.古诗中的计量单位。 凉州词（其一） 王之涣 黄河远上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 诗句中的“万仞山”表示山很高，汉制“一万仞”实际最高约为（ ）厘米，这个数读作（ ），把这个数改写成用“万”作单位的数是（ ）。",
@@ -1352,11 +1350,13 @@
             "score_vl": null,
             "score_es": 358.2626,
             "rrf_score": 0.01538462,
-            "pre_ranking_score": 8.377,
-            "is_same_vl": "相同",
-            "confidence": 0.574,
+            "pre_ranking_score": 7.691,
+            "is_same_vl": "相似",
+            "confidence": 0.054,
             "question_type": "填空题"
-          },
+          }
+        ],
+        "8899": [
           {
             "id": "q4_c26",
             "content": "【题目】古诗中的计量单位. 凉州词 王之涣 黄河院上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“一仞”是七尺，汉制的一尺约合21-24厘米。 （1）诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高达多少厘米？读出这个数. （2）把这个数改写成用“万”作单位的数.",
@@ -1364,9 +1364,9 @@
             "score_vl": 0.723188,
             "score_es": null,
             "rrf_score": 0.01515152,
-            "pre_ranking_score": 8.136,
-            "is_same_vl": "相同",
-            "confidence": 0.55,
+            "pre_ranking_score": 8.352,
+            "is_same_vl": "相似",
+            "confidence": 0.466,
             "question_type": "解答题"
           },
           {
@@ -1376,9 +1376,9 @@
             "score_vl": null,
             "score_es": 357.676,
             "rrf_score": 0.01515152,
-            "pre_ranking_score": 7.875,
-            "is_same_vl": "相同",
-            "confidence": 0.507,
+            "pre_ranking_score": 8.173,
+            "is_same_vl": "相似",
+            "confidence": 0.499,
             "question_type": "填空题"
           },
           {
@@ -1388,10 +1388,22 @@
             "score_vl": 0.719593,
             "score_es": null,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 7.642,
+            "pre_ranking_score": 7.931,
             "is_same_vl": "相似",
-            "confidence": 0.059,
+            "confidence": 0.477,
             "question_type": "填空题"
+          },
+          {
+            "id": "q4_c29",
+            "content": "古诗中的计量单位. 凉州词 王之涣 黄河院上白云间， 一片孤城万仞山。 羌笛何须怨杨柳， 春风不度玉门关。 汉制“一仞”是七尺，汉制的一尺约合21-24厘米。 （1）诗句中的“万仞山”只表示山很高，汉制“一万仞”实际最高达多少厘米？读出这个数. （2）把这个数改写成用“万”作单位的数.",
+            "channel": "vl",
+            "score_vl": 0.709537,
+            "score_es": null,
+            "rrf_score": 0.01449275,
+            "pre_ranking_score": 7.616,
+            "is_same_vl": "相似",
+            "confidence": 0.093,
+            "question_type": "解答题"
           }
         ]
       }
@@ -1409,9 +1421,9 @@
             "score_vl": 0.65151,
             "score_es": null,
             "rrf_score": 0.01639344,
-            "pre_ranking_score": 9.598,
-            "is_same_vl": "相似",
-            "confidence": 0.304,
+            "pre_ranking_score": 9.611,
+            "is_same_vl": "相同",
+            "confidence": 0.576,
             "question_type": "填空题"
           },
           {
@@ -1421,105 +1433,105 @@
             "score_vl": 0.645478,
             "score_es": null,
             "rrf_score": 0.01612903,
-            "pre_ranking_score": 9.3,
-            "is_same_vl": "相似",
-            "confidence": 0.091,
+            "pre_ranking_score": 9.282,
+            "is_same_vl": "相同",
+            "confidence": 0.595,
             "question_type": "填空题"
           },
           {
             "id": "q5_c03",
+            "content": "根据“x与y的2倍的和是非负数”，列出的不等式为 $$\\underline{}$$ ．",
+            "channel": "vl",
+            "score_vl": 0.581699,
+            "score_es": null,
+            "rrf_score": 0.01136364,
+            "pre_ranking_score": 9.013,
+            "is_same_vl": "相似",
+            "confidence": 0.201,
+            "question_type": "填空题"
+          },
+          {
+            "id": "q5_c04",
             "content": "8.“x的2倍与y的和是非负数”用不等式表示应为____.",
             "channel": "vl",
             "score_vl": 0.639597,
             "score_es": null,
             "rrf_score": 0.01587302,
-            "pre_ranking_score": 9.029,
+            "pre_ranking_score": 8.754,
             "is_same_vl": "相似",
-            "confidence": 0.484,
-            "question_type": "填空题"
-          },
-          {
-            "id": "q5_c04",
-            "content": "2.“x的2倍与y的和是非负数”用不等式表示应为____.",
-            "channel": "vl",
-            "score_vl": 0.637194,
-            "score_es": null,
-            "rrf_score": 0.015625,
-            "pre_ranking_score": 8.725,
-            "is_same_vl": "相似",
-            "confidence": 0.382,
+            "confidence": 0.091,
             "question_type": "填空题"
           },
           {
             "id": "q5_c05",
             "content": "2.“x的2倍与y的和是非负数”用不等式表示应为____.",
             "channel": "vl",
-            "score_vl": 0.635778,
+            "score_vl": 0.637194,
             "score_es": null,
-            "rrf_score": 0.01538462,
-            "pre_ranking_score": 8.523,
+            "rrf_score": 0.015625,
+            "pre_ranking_score": 8.439,
             "is_same_vl": "相似",
-            "confidence": 0.317,
+            "confidence": 0.039,
             "question_type": "填空题"
           },
           {
             "id": "q5_c06",
+            "content": "2.“x的2倍与y的和是非负数”用不等式表示应为____.",
+            "channel": "vl",
+            "score_vl": 0.635778,
+            "score_es": null,
+            "rrf_score": 0.01538462,
+            "pre_ranking_score": 8.153,
+            "is_same_vl": "相似",
+            "confidence": 0.075,
+            "question_type": "填空题"
+          },
+          {
+            "id": "q5_c07",
             "content": "8.“x的2倍与y的和是非负数”用不等式表示应为___.",
             "channel": "vl",
             "score_vl": 0.635141,
             "score_es": null,
             "rrf_score": 0.01515152,
-            "pre_ranking_score": 8.159,
+            "pre_ranking_score": 7.938,
             "is_same_vl": "相似",
-            "confidence": 0.47,
+            "confidence": 0.39,
             "question_type": "填空题"
           },
           {
-            "id": "q5_c07",
+            "id": "q5_c08",
             "content": "22.（2021春北京东城七年级统考期末）“x的2倍与y的和是非负数”用不等式表示应为$$\\underline{}$$.",
             "channel": "vl",
             "score_vl": 0.633981,
             "score_es": null,
             "rrf_score": 0.01492537,
-            "pre_ranking_score": 7.961,
+            "pre_ranking_score": 7.667,
             "is_same_vl": "相似",
-            "confidence": 0.168,
+            "confidence": 0.209,
             "question_type": "填空题"
           },
           {
-            "id": "q5_c08",
+            "id": "q5_c09",
             "content": "x与y的2倍的和是非负数，用不等式表示为？",
             "channel": "vl",
             "score_vl": 0.631697,
             "score_es": null,
             "rrf_score": 0.01470588,
-            "pre_ranking_score": 7.668,
+            "pre_ranking_score": 7.385,
             "is_same_vl": "相似",
-            "confidence": 0.198,
+            "confidence": 0.058,
             "question_type": "解答题"
           },
           {
-            "id": "q5_c09",
+            "id": "q5_c10",
             "content": "【题文】“x的2倍与y的和是非负数”用不等式表示应为___．",
             "channel": "vl",
             "score_vl": 0.631221,
             "score_es": null,
             "rrf_score": 0.01449275,
-            "pre_ranking_score": 7.344,
+            "pre_ranking_score": 7.116,
             "is_same_vl": "相似",
-            "confidence": 0.269,
-            "question_type": "填空题"
-          },
-          {
-            "id": "q5_c10",
-            "content": "“x的2倍与y的和是非负数”用不等式表示应为 .",
-            "channel": "vl",
-            "score_vl": 0.625464,
-            "score_es": null,
-            "rrf_score": 0.01428571,
-            "pre_ranking_score": 7.032,
-            "is_same_vl": "相同",
-            "confidence": 0.6,
+            "confidence": 0.205,
             "question_type": "填空题"
           },
           {
@@ -1528,58 +1540,58 @@
             "channel": "vl",
             "score_vl": 0.625464,
             "score_es": null,
-            "rrf_score": 0.01408451,
-            "pre_ranking_score": 6.791,
+            "rrf_score": 0.01428571,
+            "pre_ranking_score": 6.762,
             "is_same_vl": "相似",
-            "confidence": 0.295,
-            "question_type": "选择题"
+            "confidence": 0.192,
+            "question_type": "填空题"
           },
           {
             "id": "q5_c12",
+            "content": "“x的2倍与y的和是非负数”用不等式表示应为 .",
+            "channel": "vl",
+            "score_vl": 0.625464,
+            "score_es": null,
+            "rrf_score": 0.01408451,
+            "pre_ranking_score": 6.489,
+            "is_same_vl": "相似",
+            "confidence": 0.371,
+            "question_type": "选择题"
+          },
+          {
+            "id": "q5_c13",
             "content": "13.“x的2倍与y的和是非负数”用不等式表示为____.",
             "channel": "vl",
             "score_vl": 0.623747,
             "score_es": null,
             "rrf_score": 0.01388889,
-            "pre_ranking_score": 6.523,
+            "pre_ranking_score": 6.227,
             "is_same_vl": "相似",
-            "confidence": 0.266,
+            "confidence": 0.008,
             "question_type": "填空题"
           },
           {
-            "id": "q5_c13",
+            "id": "q5_c14",
             "content": "用不等式表示”x的2倍与y的和是非负数” ___________。",
             "channel": "vl",
             "score_vl": 0.617715,
             "score_es": null,
             "rrf_score": 0.01369863,
-            "pre_ranking_score": 6.192,
-            "is_same_vl": "相同",
-            "confidence": 0.526,
+            "pre_ranking_score": 5.929,
+            "is_same_vl": "相似",
+            "confidence": 0.04,
             "question_type": "填空题"
           },
           {
-            "id": "q5_c14",
+            "id": "q5_c15",
             "content": "13.“x的2倍与y的和是非负数”用不等式表示为_。",
             "channel": "vl",
             "score_vl": 0.616502,
             "score_es": null,
             "rrf_score": 0.01351351,
-            "pre_ranking_score": 5.946,
+            "pre_ranking_score": 5.725,
             "is_same_vl": "相似",
-            "confidence": 0.249,
-            "question_type": "填空题"
-          },
-          {
-            "id": "q5_c15",
-            "content": "“x的2倍与y的和是非负数”用不等式表示应为 ______ .",
-            "channel": "vl",
-            "score_vl": 0.615546,
-            "score_es": null,
-            "rrf_score": 0.01333333,
-            "pre_ranking_score": 5.643,
-            "is_same_vl": "相似",
-            "confidence": 0.157,
+            "confidence": 0.206,
             "question_type": "填空题"
           },
           {
@@ -1588,72 +1600,72 @@
             "channel": "vl",
             "score_vl": 0.615546,
             "score_es": null,
-            "rrf_score": 0.01315789,
-            "pre_ranking_score": 5.392,
+            "rrf_score": 0.01333333,
+            "pre_ranking_score": 5.428,
             "is_same_vl": "相似",
-            "confidence": 0.36,
+            "confidence": 0.297,
             "question_type": "填空题"
           },
           {
             "id": "q5_c17",
+            "content": "“x的2倍与y的和是非负数”用不等式表示应为 ______ .",
+            "channel": "vl",
+            "score_vl": 0.615546,
+            "score_es": null,
+            "rrf_score": 0.01315789,
+            "pre_ranking_score": 5.111,
+            "is_same_vl": "相似",
+            "confidence": 0.366,
+            "question_type": "填空题"
+          },
+          {
+            "id": "q5_c18",
             "content": "X的2倍与y的和是非负数”用不等式表示应为______",
             "channel": "vl",
             "score_vl": 0.611156,
             "score_es": null,
             "rrf_score": 0.01298701,
-            "pre_ranking_score": 5.094,
+            "pre_ranking_score": 4.845,
             "is_same_vl": "相似",
-            "confidence": 0.005,
+            "confidence": 0.022,
             "question_type": "填空题"
           },
           {
-            "id": "q5_c18",
+            "id": "q5_c19",
             "content": "如图所示 12.“x的 2 倍与 y 的和是非负数”用不等式表示应为________.",
             "channel": "vl",
             "score_vl": 0.608522,
             "score_es": null,
             "rrf_score": 0.01282051,
-            "pre_ranking_score": 4.883,
+            "pre_ranking_score": 4.609,
             "is_same_vl": "相似",
-            "confidence": 0.41,
+            "confidence": 0.174,
             "question_type": "填空题"
           },
           {
-            "id": "q5_c19",
+            "id": "q5_c20",
             "content": "“x的2倍与y的和是非负数”用不等式表示应为 ．",
             "channel": "vl",
             "score_vl": 0.603,
             "score_es": null,
             "rrf_score": 0.01265823,
-            "pre_ranking_score": 4.53,
+            "pre_ranking_score": 4.295,
             "is_same_vl": "相似",
-            "confidence": 0.216,
-            "question_type": "填空题"
-          },
-          {
-            "id": "q5_c20",
-            "content": "\"$$x$$的$$2$$倍与$$y$$的和是非负数\"用不等式表示应为______.",
-            "channel": "vl",
-            "score_vl": 0.6015,
-            "score_es": null,
-            "rrf_score": 0.0125,
-            "pre_ranking_score": 4.245,
-            "is_same_vl": "相同",
-            "confidence": 0.587,
+            "confidence": 0.208,
             "question_type": "填空题"
           }
         ],
         "8889": [
           {
             "id": "q5_c21",
-            "content": "根据“x与y的2倍的和是非负数”，列出的不等式为 $$\\underline{}$$ ．",
+            "content": "\"$$x$$的$$2$$倍与$$y$$的和是非负数\"用不等式表示应为______.",
             "channel": "vl",
-            "score_vl": 0.581699,
+            "score_vl": 0.6015,
             "score_es": null,
-            "rrf_score": 0.01136364,
-            "pre_ranking_score": 8.6,
-            "is_same_vl": "相同",
-            "confidence": 0.837,
+            "rrf_score": 0.0125,
+            "pre_ranking_score": 8.446,
+            "is_same_vl": "相似",
+            "confidence": 0.083,
             "question_type": "填空题"
           },
           {
@@ -1663,9 +1675,9 @@
             "score_vl": 0.60015,
             "score_es": null,
             "rrf_score": 0.01234568,
-            "pre_ranking_score": 8.409,
+            "pre_ranking_score": 8.106,
             "is_same_vl": "相似",
-            "confidence": 0.068,
+            "confidence": 0.021,
             "question_type": "填空题"
           },
           {
@@ -1675,9 +1687,9 @@
             "score_vl": 0.595673,
             "score_es": null,
             "rrf_score": 0.01219512,
-            "pre_ranking_score": 8.123,
+            "pre_ranking_score": 7.89,
             "is_same_vl": "相似",
-            "confidence": 0.101,
+            "confidence": 0.424,
             "question_type": "填空题"
           },
           {
@@ -1687,11 +1699,13 @@
             "score_vl": 0.58795,
             "score_es": null,
             "rrf_score": 0.01204819,
-            "pre_ranking_score": 7.896,
+            "pre_ranking_score": 7.645,
             "is_same_vl": "相似",
-            "confidence": 0.137,
+            "confidence": 0.466,
             "question_type": "填空题"
-          },
+          }
+        ],
+        "8899": [
           {
             "id": "q5_c25",
             "content": "“x的2倍与y的和是非负数”用不等式表示应为 $$\\underline{}$$．",
@@ -1699,13 +1713,11 @@
             "score_vl": 0.587713,
             "score_es": null,
             "rrf_score": 0.01190476,
-            "pre_ranking_score": 7.631,
+            "pre_ranking_score": 8.364,
             "is_same_vl": "相似",
-            "confidence": 0.368,
+            "confidence": 0.483,
             "question_type": "填空题"
-          }
-        ],
-        "8899": [
+          },
           {
             "id": "q5_c26",
             "content": "8. “x的2倍与y的和是非负数”用不等式表示应为$$\\underline{}$$.",
@@ -1713,9 +1725,9 @@
             "score_vl": 0.586593,
             "score_es": null,
             "rrf_score": 0.01176471,
-            "pre_ranking_score": 8.354,
+            "pre_ranking_score": 8.117,
             "is_same_vl": "相似",
-            "confidence": 0.123,
+            "confidence": 0.442,
             "question_type": "填空题"
           },
           {
@@ -1725,9 +1737,9 @@
             "score_vl": 0.584431,
             "score_es": null,
             "rrf_score": 0.01162791,
-            "pre_ranking_score": 8.126,
+            "pre_ranking_score": 7.87,
             "is_same_vl": "相似",
-            "confidence": 0.073,
+            "confidence": 0.291,
             "question_type": "填空题"
           },
           {
@@ -1737,21 +1749,9 @@
             "score_vl": 0.583819,
             "score_es": null,
             "rrf_score": 0.01149425,
-            "pre_ranking_score": 7.858,
+            "pre_ranking_score": 7.661,
             "is_same_vl": "相似",
-            "confidence": 0.06,
-            "question_type": "填空题"
-          },
-          {
-            "id": "q5_c29",
-            "content": "“x的2倍与y的和是非负数”用不等式表示应为 $$\\underline{}$$ ．",
-            "channel": "vl",
-            "score_vl": 0.578966,
-            "score_es": null,
-            "rrf_score": 0.01123596,
-            "pre_ranking_score": 7.625,
-            "is_same_vl": "相同",
-            "confidence": 0.563,
+            "confidence": 0.486,
             "question_type": "填空题"
           }
         ]
